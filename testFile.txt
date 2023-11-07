@@ -1,4 +1,4 @@
 This is a test file.
-there is three lines of txt in the file.
+there is four lines of txt in the file.
 Coding is my passion.
 My prefered programming language is Java.
